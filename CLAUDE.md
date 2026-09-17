@@ -1,6 +1,6 @@
 # CLAUDE.md - WeWorkHere
 
-> AI 개발 도구(Claude Code)를 위한 프로젝트 가이드
+> AI 개발 도구(Claude Code)를 위한 프로젝트 가이드.
 
 ## 빠른 참조
 
