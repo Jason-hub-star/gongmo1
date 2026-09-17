@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # WeWorkHere 프로덕션 배포 스크립트
+
 # 운영 환경: weworkhere.alldatabox.com
 
 set -e
